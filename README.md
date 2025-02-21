@@ -61,7 +61,7 @@ pip install torch torchvision opencv-python pillow tkinter numpy
 ### Model Setup
 
 1. Download the pre-trained model from [Google Drive](https://drive.google.com/file/d/1TQf-LyS8rRDDapdcTnEgWzYJllPgiXdj/view)
-2. Place the model file in the `checkpoints/pretrained/` directory
+2. Place the model file in the `output/pretrained/` directory
 3. Ensure your directory structure matches:
 ```
 sketch-gui/
