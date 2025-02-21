@@ -6,6 +6,17 @@ A professional GUI application for converting photos to animated sketches using 
 [Screenshot placeholder - Add your GUI screenshot here]
 </p>
 
+<p align="center">
+  <img src="imgs/Screenshot 2025-02-21 at 8.38.01 PM.png" alt="Photo to Sketch Examples" width="800"/>
+  <br>
+  <em>Example results showing original photos (top) and their corresponding sketches (bottom)</em>
+</p>
+<p align="center">
+  <img src="imgs/Screenshot 2025-02-21 at 8.39.36 PM.png" alt="GUI Interface" width="800"/>
+  <br>
+  <em>The Sketch Animation GUI interface showing the image selector (left) and animation canvas (right)</em>
+</p>
+
 ## Overview
 
 This application builds on the research from the paper "Photo-Sketching: Inferring Contour Drawings from Images" (WACV 2019) by providing a user-friendly interface for:
